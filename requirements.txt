@@ -1,4 +1,4 @@
-﻿# reuqests
-reuqests
-﻿# python-dotenv
+# reuqests
+requests
+# python-dotenv
 python-dotenv
