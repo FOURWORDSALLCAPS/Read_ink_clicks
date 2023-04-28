@@ -1,7 +1,7 @@
 import requests
 from urllib.parse import urlparse
 from dotenv import load_dotenv
-import o
+import os
 
 load_dotenv("dev.env")
 
