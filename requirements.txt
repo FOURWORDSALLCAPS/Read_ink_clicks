@@ -1,4 +1,4 @@
 ﻿# reuqests
 reuqests
 ﻿# python-dotenv
-python-dotenvf
+python-dotenv
