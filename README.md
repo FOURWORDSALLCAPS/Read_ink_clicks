@@ -11,7 +11,7 @@ python -m pip install -r requirements.txt
 ```
 Ждем пока установятся все зависимости.
 
-В файле dev.env TOKEN="Вводим свой токен"
+В файле dev.env ACCESS_BITLY_TOKEN="Вводим свой токен"
 
 Получить его можно тут:```https://bit.ly/```
 
