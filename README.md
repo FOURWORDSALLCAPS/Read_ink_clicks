@@ -15,7 +15,7 @@ python -m pip install -r requirements.txt
 
 Получить его можно тут:```https://bit.ly/```
 
-В этом же CMD запускаем скрипт командой ```python script.py ваша ссылка``` 
+В этом же CMD запускаем скрипт командой ```python script.py``` 
 
 ### Результат:
 
